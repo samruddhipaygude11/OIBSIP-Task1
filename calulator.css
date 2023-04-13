@@ -6,7 +6,7 @@ body {
     align-items: center;
     min-height: 100vh;
     user-select: none;
-    background: grey;
+    background: rgb(71, 154, 195);
 }
 
 .container {
